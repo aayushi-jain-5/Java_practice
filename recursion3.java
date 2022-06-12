@@ -1,3 +1,4 @@
+//print the sum of numbers
 import java.util.*;
 public class Recursion{
     public static void printSum(int i,int n,int sum){
